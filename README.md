@@ -1,6 +1,7 @@
-It's my first page project.
+It's my first responsive page project.
 
 Used:
+
   ❃ HTML
   ❃ CSS
   ❃ RWD
